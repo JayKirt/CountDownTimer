@@ -3,7 +3,7 @@
 <h4> <ins> To do: </ins></h4>
 <ul> 
   <li> Improve CSS. </li>
-  <li> Add an Alarm. </li>
+  <li>Add an Alarm.</li>
   <li>Add drop down for "common" events.</li>
 </ul>
 
