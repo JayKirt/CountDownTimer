@@ -7,4 +7,4 @@
   <li> Add drop down for "common" events. </li>
 </ul>
 
-<p>Set timers for events and see how long until they happen!</p>
+<p> Set timers for events and see how long until they happen! </p>
